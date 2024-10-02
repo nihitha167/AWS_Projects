@@ -34,4 +34,4 @@ Welcome to my AWS projects repository! Here, I showcase the projects I’ve been
 ## Conclusion
 These projects reflect my journey in learning AWS and applying its services in real-world scenarios. I’m excited to continue expanding my knowledge and skills in cloud computing.
 
-Feel free to reach out if you have any que
+Feel free to reach out if you have any questions.
